@@ -7,6 +7,7 @@ please check this [first](https://8weeksqlchallenge.com/resources/)
 - Business Task
 - Entity Relationship Diagram
 - Questions and Solutions
+
 Danny has shared with you 3 key datasets for this case study:
 - sales
 - menu
